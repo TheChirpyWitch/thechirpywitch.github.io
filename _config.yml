@@ -9,8 +9,8 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: default  # try: default, air, dark, mint, neon
 
 # If this will be your user site: https://vrindamalhotra.github.io
-url: "https://vrindamalhotra.github.io"   # for local dev you can temporarily use http://127.0.0.1:4000
-baseurl: ""                                # empty for user/org sites
+url: "https://thechirpywitch.github.io"
+baseurl: "/vrindamalhotra.github.io"
 
 repository               : "TheChirpyWitch/vrindamalhotra.github.io"
 
