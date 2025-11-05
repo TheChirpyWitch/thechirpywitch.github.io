@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CDS 101"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "George Mason University, CDS Department"
+date: 2025-08-21
+location: "Fairfax, VA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Introduction to Computational and Data Sciences course will teach students how to use R to analyze data.
