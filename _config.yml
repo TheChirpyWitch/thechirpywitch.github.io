@@ -4,7 +4,7 @@ site_theme               : "default" # options: default, air
 title                    : "Vrinda Malhotra"
 title_separator          : "-"
 name                     : &name "Vrinda Malhotra"
-description              : &description "PhD student • Computational Sciences & Informatics, George Mason University"
+description              : &description "Vrinda Malhotra • PhD student • Computational Sciences & Informatics, George Mason University"
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 minimal_mistakes_skin: default  # try: default, air, dark, mint, neon
 
