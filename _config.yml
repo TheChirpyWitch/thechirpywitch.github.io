@@ -20,7 +20,7 @@ author:
   avatar           : "/avatar.jpg"   # place a 200x200 image here (or keep profile.png)
   name             : "Vrinda Malhotra"
   pronouns         : "she/her"
-  bio              : "Agent-based modeling, AI & society, and knowledge commons."
+  bio              : "Agent-based modeling, AI & society, and Commons Theory."
   location         : "Fairfax, VA, USA"
   employer         : "George Mason University"
   uri              :
@@ -120,7 +120,7 @@ atom_feed:
   path                   :
 
 # SEO Related
-google_site_verification :
+google_site_verification : "XoD4XGRzxWCHn4keDOMKZTkuGaT0drlp9NHTYZ3oa5M"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
