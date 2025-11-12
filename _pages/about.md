@@ -12,7 +12,7 @@ I’m a PhD student in Computational Sciences & Informatics at **George Mason Un
 **Research interests:** ABM, Computational Social Science, Trust & Governance, Misinformation, NLP, ML, Climate & Policy.
 
 ### Recent News
-- **2025** — *AgentZero++: Modeling Fear-Based Behavior in Social Systems* accepted at **CSSSA 2025**. [arXiv](https://arxiv.org/abs/2510.05185)
+- **2025** — *AgentZero++: Modeling Fear-Based Behavior in Social Systems* awarded **Best Paper** at **CSSSA 2025**. [arXiv](https://arxiv.org/abs/2510.05185)
 - **2025** — *Modeling Societal Collapse: A Multi-Society Agent-Based Exploration of
 Resource, Innovation, and Governance Feedbacks*. CSSSA Poster
 

@@ -9,4 +9,4 @@ paperurl: "https://arxiv.org/abs/2510.05185"
 citation: "Vrinda Malhotra, Jiaman Li, and Nandini Pisupati. AgentZero++: Modeling Fear-Based Behavior in Social Systems. Computational Social Science Society of the Americas (CSSSA), 2025."
 type: "conference"
 ---
-A fear-based extension of Epstein’s AgentZero, modeling how emotions, credibility, and social signals interact to shape collective behavior in complex societies. Preprint available on arXiv.
+A fear-based extension of Epstein’s AgentZero, modeling how emotions, credibility, and social signals interact to shape collective behavior in complex societies. Preprint available on arXiv. Awarded The SimTable Advancing the Philosophy and Technique of Computational Social Systems Award and the Best Paper Award at CSS2025: https://computationalsocialscience.org/conferences/css-2025-santa-fe/
