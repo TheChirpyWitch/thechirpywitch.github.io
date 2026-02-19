@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in Computational Sciences & Informatics at **George Mason University**, advised by **Robert Axtell**. I build computational models that combine **agent-based modeling (ABM)** with **machine learning (ML)** and **natural language processing (NLP)** to study **trust, information flows, and governance** in socio-technical systems.
+I’m a PhD student in Computational Sciences & Informatics at **George Mason University**, advised by **[Robert Axtell](https://css1.gmu.edu/~axtell/Rob/Home.html)**. I build computational models that combine **agent-based modeling (ABM)** with **machine learning (ML)** and **natural language processing (NLP)** to study **trust, information flows, and governance** in socio-technical systems.
 
 **Research interests:** ABM, Computational Social Science, Trust & Governance, Misinformation, NLP, ML, Climate & Policy.
 

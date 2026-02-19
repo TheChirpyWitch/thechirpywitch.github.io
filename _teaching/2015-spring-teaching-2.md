@@ -8,4 +8,4 @@ date: 2024-08-21
 location: "Fairfax, VA"
 ---
 
-Introduction to Computational and Data Sciences course will teach students how to use R to analyze data. This course is more focused on programming. I taught it from Fall 2024 to Fall 2025.
+Introduction to Computational and Data Sciences course will teach students how to use R to analyze data. This course is more focused on programming.
